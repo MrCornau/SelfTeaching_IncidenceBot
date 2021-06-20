@@ -1,0 +1,19 @@
+{
+  "name": "selfteaching-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "http-request": "^0.7.0",
+    "node-fetch": "^2.6.0",
+    "telegraf": "^4.3.0",
+    "telegraf-flow": "^8.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
