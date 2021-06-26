@@ -1,0 +1,44 @@
+{
+  "data": {
+    "08136": {
+      "ags": "08136",
+      "name": "Ostalbkreis",
+      "county": "LK Ostalbkreis",
+      "state": "Baden-Württemberg",
+      "population": 314025,
+      "cases": 15599,
+      "deaths": 404,
+      "casesPerWeek": 54,
+      "deathsPerWeek": 0,
+      "stateAbbreviation": "BW",
+      "recovered": 14964,
+      "weekIncidence": 17.19608311440172,
+      "casesPer100k": 4967.438898176896,
+      "delta": { "cases": 21, "deaths": 1, "recovered": 16 }
+    },
+    "10041": {
+      "ags": "10041",
+      "name": "Regionalverband Saarbrücken",
+      "county": "LK Stadtverband Saarbrücken",
+      "state": "Saarland",
+      "population": 328714,
+      "cases": 15784,
+      "deaths": 466,
+      "casesPerWeek": 23,
+      "deathsPerWeek": 0,
+      "stateAbbreviation": "SL",
+      "recovered": 15252,
+      "weekIncidence": 6.996963926087723,
+      "casesPer100k": 4801.742548233419,
+      "delta": { "cases": 2, "deaths": 0, "recovered": 7 }
+    },
+
+    "meta": {
+      "source": "Robert Koch-Institut",
+      "contact": "Marlon Lueckert (m.lueckert@me.com)",
+      "info": "https://github.com/marlon360/rki-covid-api",
+      "lastUpdate": "2021-06-26T00:00:00.000Z",
+      "lastCheckedForUpdate": "2021-06-26T16:53:10.391Z"
+    }
+  }
+}
