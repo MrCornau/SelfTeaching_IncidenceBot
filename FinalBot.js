@@ -70,7 +70,7 @@ bot.on('location', (ctx) => {
           .then((response2) => {
           ctx.reply('In deinem Landkreis ' + response2.data.data[ags].name + ' besteht aktuell eine Inzidenz von: ' + response2.data.data[ags].weekIncidence.toFixed(0) +
           ' 🦠 Diese Woche gab es ' + response2.data.data[ags].casesPerWeek.toFixed(0) + ' Fälle 🤧 '  +
-          'Von der Delta Variante gab es bis jetzt ' + response2.data.data[ags].delta.cases.toFixed(0) + ' Fälle 😰 Bleib gesund und pass auf dich auf 😌'
+          'Bleib gesund und pass auf dich auf 😌'
           ),
           console.log(response2.data.data[ags])},)
           .catch(error => {
