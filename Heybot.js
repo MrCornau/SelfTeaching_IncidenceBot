@@ -5,8 +5,7 @@
 //Telegraf ist ein Bot Framework welche uns die Interaktion mit der Nutzer:in über den Bot einfacher macht -> https://telegraf.js.org/
 const Telegraf = require('telegraf').Telegraf;
 
-const BOT_TOKEN = '1707963619:AAHdgyPkGo18nRDyVYfM8c07Ga2tUv4SKOk'
-
+const BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 
 
 //Hier erstellen wir die Verbindung zum Telegram Bot
